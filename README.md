@@ -1,29 +1,5 @@
-# funproj
+# Vue.js (v2) Todo list v1.0
 
-## Project setup
-```
-npm install
-```
+This is a working Todo list project, that is powered by mock API (jsonplaceholder.com).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It adds/removes todo items and display them, but does not persist them as it uses mock API.
